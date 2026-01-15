@@ -6,7 +6,7 @@ Android-sovellus tehtävien hallintaan.
 ##Tässä data malli
 
 ### Task data class
-'''kotlin
+```kotlin
 data class Task(
     val id: Int,           // Yksilöllinen tunniste
     val title: String,     // Tehtävän otsikko
