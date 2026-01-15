@@ -2,6 +2,7 @@
 
 ## Yleiskuvaus
 Android-sovellus tehtävien hallintaan.
+[Tutorial video](https://youtu.be/b8hBJOAeSOY)
 
 ## Datamalli
 
@@ -15,3 +16,4 @@ data class Task(
     val dueDate: String,   // Päivämäärä (YYYY-MM-DD)
     val done: Boolean      // Suoritustila
 )
+
