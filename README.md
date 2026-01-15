@@ -1,9 +1,9 @@
 # Viikkotehtava1 Kotlin-perusteet
 
-##Yleiskuvaus
+## Yleiskuvaus
 Android-sovellus tehtävien hallintaan.
 
-##Tässä data malli
+## Datamalli
 
 ### Task data class
 ```kotlin
